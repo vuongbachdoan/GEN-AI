@@ -1,4 +1,4 @@
-## Using Python to call AWS Bedrock
+## Python + AWS Bedrock integrates with Claude 2.0
 
 ### 1. Install Boto3
 	python -m venv myvenv
